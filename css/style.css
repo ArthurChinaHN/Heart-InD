@@ -10,5 +10,8 @@ body{
 	height: 4rem;
 }
 .row div{
-	border: 2px solid #000000;
+	border: 1px solid #000000;
+}
+.mui-input-group{
+	margin-top: 200px;
 }

@@ -13,5 +13,11 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/jdk1.8/mysql-8.0.19-winx64/mysql-connector-java-8.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/jdk1.8/mysql-8.0.19-winx64/commons-dbcp2-2.7.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/jdk1.8/mysql-8.0.19-winx64/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/jdk1.8/mysql-8.0.19-winx64/commons-pool2-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/jdk1.8/mysql-8.0.19-winx64/commons-dbutils-1.7.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

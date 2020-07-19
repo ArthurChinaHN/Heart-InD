@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/j2ee/web-app_4_0.xsd" id="WebApp_ID" version="4.0">
   <display-name>servlet_review</display-name>
-  
-  <servlet>
-  	<servlet-name>Hello</servlet-name>
-  	<servlet-class>priv.arthur.Hello</servlet-class>
-  </servlet>
-  
-  <servlet-mapping>
-  	<servlet-name>Hello</servlet-name>
-  	<url-pattern>/Hello</url-pattern>	
-  </servlet-mapping>
+
 </web-app>

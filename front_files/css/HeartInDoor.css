@@ -1,0 +1,12 @@
+.html {
+  font-size: 50px;
+}
+#carouselExampleInterval {
+  width: 100%;
+  max-height: 850px;
+}
+.carousel-inner img {
+  width: 100%;
+  max-height: 850px;
+}
+/*# sourceMappingURL=HeartInDoor.css.map */
